@@ -42,4 +42,6 @@ If you wish to make any changes, please send an e-mail to s53017@edu.campus02.at
 
 ## Links
 
-- [Exercise**1**](exercise1.md)
+- [Exercise**1**](exercise1.md) (This exercise was used to learn how to use and practice Markdown syntax.)
+- [Exercise**2**](exercise2.md) (The second exercise consists of making your first experiences with GitHub and
+learning the most important commands.)
