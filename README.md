@@ -56,3 +56,5 @@ If you wish to make any changes, please send an e-mail to s53017@edu.campus02.at
 - [Exercise**1**](exercise1.md) (This exercise was used to learn how to use and practice Markdown syntax.)
 - [Exercise**2**](exercise2.md) (The second exercise consists of making your first experiences with GitHub and
 learning the most important commands.)
+- [Exercise**3**](exercise3.md) (The aim of the third exercise is to version a Java project using Git,
+exploring various build automation tools and further Git functionalities.)
