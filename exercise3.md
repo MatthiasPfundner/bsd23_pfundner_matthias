@@ -44,8 +44,19 @@ The folder structure after the first execution of the program.
 
 ---
 
-![Success build](resources/images/ex3_2.png)
+![mvn compile](resources/images/ex3_2.png)
 
 This picture shows the success build with the command "mvn compile".
 
 ---
+
+![mvn exec:java](resources/images/ex3_3.png)
+
+This picture displays the output of the mvn exec:java command,
+showing the results of the Java application's execution.
+
+
+
+
+
+
