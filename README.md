@@ -58,3 +58,4 @@ If you wish to make any changes, please send an e-mail to s53017@edu.campus02.at
 learning the most important commands.)
 - [Exercise**3**](exercise3.md) (The aim of the third exercise is to version a Java project using Git,
 exploring various build automation tools and further Git functionalities.)
+- [Exercise**4**](exercise4.md) (Here we learn how to test Java projects with JUnit.)
