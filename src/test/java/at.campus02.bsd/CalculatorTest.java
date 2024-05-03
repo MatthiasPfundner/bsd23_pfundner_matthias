@@ -93,7 +93,7 @@ public class CalculatorTest {
     @Test
     public void testFactorial2() {
         int result = calculator.factorial(2);
-        Assertions.assertEquals(3, result);
+        Assertions.assertEquals(2, result);
     }
 
     @Test
