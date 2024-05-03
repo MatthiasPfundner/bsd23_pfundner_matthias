@@ -83,4 +83,22 @@ public class CalculatorTest {
         double result = calculator.multiply(-0.1, 0.1);
         Assertions.assertEquals(-0.01, result, 0.0000001);
     }
+
+    @Test
+    public void testFactorial1() {
+        int result = calculator.factorial(0);
+        Assertions.assertEquals(1, result);
+    }
+
+    @Test
+    public void testFactorial2() {
+        int result = calculator.factorial(2);
+        Assertions.assertEquals(3, result);
+    }
+
+    @Test
+    public void testFactorial3() {
+        int result = calculator.factorial(-2);
+        Assertions.assertEquals(0, result);
+    }
 }

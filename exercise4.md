@@ -25,4 +25,8 @@ and whether the corresponding exception is thrown. But this is not included in t
 
 ## Screenshots
 
-![JUnit test](resources/images/ex4_1.png)
+![JUnit test success](resources/images/ex4_1.png) All tests successful
+
+---
+
+![JUnit test error](resources/images/ex4_2.png) Not all tests successful
