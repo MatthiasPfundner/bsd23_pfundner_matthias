@@ -2,7 +2,7 @@
  * bsd23_pfundner_matthias
  * Main class to represent a calculator
  * Author: Matthias Pfundner
- * Last Change: 19-04-2024
+ * Last Change: 20-05-2024
  */
 
 package at.campus02.bsd;

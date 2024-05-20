@@ -67,6 +67,13 @@ public class CalculatorTest {
     }
 
     @Test
+    public void testDivide4() {
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(5.0, 0.0);
+        });
+    }
+
+    @Test
     public void testMultiply1() {
         double result = calculator.multiply(5.0, 100.0);
         Assertions.assertEquals(500.0, result, 0.0000001);

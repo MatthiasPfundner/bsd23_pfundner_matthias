@@ -38,6 +38,17 @@ The program is terminated by entering the number **9**.
 
 ---
 
+## Logging with Log4j2
+
+To log messages using Log4j2 in your project, follow these steps:
+
+1. Copy the Log4j2 configuration template file **\src\main\resources\log4j2.xml.template** to your project directory.
+2. Rename the copied template file to **log4j2.xml**.
+3. Open the **log4j2.xml** file and customize the logging configurations according to your requirements.
+4. Use the Logger object in your classes to log messages.
+
+---
+
 ## Contributing
 
 If you wish to make any changes, please send an e-mail to s53017@edu.campus02.at.
