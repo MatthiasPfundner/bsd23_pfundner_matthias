@@ -49,6 +49,11 @@ public class Calculator {
         return number1 * number2;
     }
 
+    /**
+     * Calculates the factorial of a number
+     * @param number passed int number
+     * @return the factorial value
+     */
     public int factorial(int number) {
         if(number < 0) {
             return 0;
