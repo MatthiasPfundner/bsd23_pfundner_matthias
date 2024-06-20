@@ -34,3 +34,13 @@ In the configuration files site.xml or pom.xml, various aspects are defined:
 ---
 
 ## Screenshots
+
+![good_style](resources/images/ex6_1.png) Shows the good_style.md in the maven site documentation
+
+---
+
+![Javadoc API](resources/images/ex6_2.png) Shows the Javadoc API-Help in the maven site documentation
+
+---
+
+![jacoco](resources/images/ex6_3.png) Shows the JUnit-testreport in the maven site documentation
